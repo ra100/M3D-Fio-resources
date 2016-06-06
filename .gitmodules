@@ -1,0 +1,3 @@
+[submodule "svg-objects-export"]
+	path = svg-objects-export
+	url = git@github.com:berteh/svg-objects-export.git
